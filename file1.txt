@@ -1,2 +1,3 @@
 commad  6.    Update file1 and commit (commit b1-1)
 15.  Create file2 ; create file4 ; update file1 and commit (commit b2-1)
+24.  Update file1, delete file2 and commit (commit b3-3)
